@@ -110,7 +110,6 @@
 		]
 	},
 	"dependencies": {
-		"@metacall/deploy": "^0.1.33",
 		"@metacall/protocol": "^0.1.26",
 		"busboy": "^1.4.0",
 		"colors": "^1.4.0",
